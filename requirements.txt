@@ -1,0 +1,8 @@
+#  pip install -r requirements.txt
+groq
+langchain
+streamlit
+python-dotenv
+Pypdf2
+
+
